@@ -8,7 +8,7 @@
 # To run in the resulting Docker container:
 #   docker run -it proj0
 #
-FROM alexandrechern/cis561:dev
-COPY . /usr/src/proj0
-WORKDIR /usr/src/proj0
+FROM michalyoung/cis461:base
+COPY . /usr/src/proj2
+WORKDIR /usr/src/proj2
 RUN make
