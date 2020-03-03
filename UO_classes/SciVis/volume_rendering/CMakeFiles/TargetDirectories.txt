@@ -1,0 +1,3 @@
+/Users/ychern/version-control/UO_classes/SciVis/volume_rendering/CMakeFiles/rebuild_cache.dir
+/Users/ychern/version-control/UO_classes/SciVis/volume_rendering/CMakeFiles/edit_cache.dir
+/Users/ychern/version-control/UO_classes/SciVis/volume_rendering/CMakeFiles/volume_rendering.dir

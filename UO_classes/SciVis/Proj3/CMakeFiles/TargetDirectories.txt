@@ -1,0 +1,3 @@
+/Users/ychern/version-control/UO_classes/SciVis/Proj3/CMakeFiles/rebuild_cache.dir
+/Users/ychern/version-control/UO_classes/SciVis/Proj3/CMakeFiles/edit_cache.dir
+/Users/ychern/version-control/UO_classes/SciVis/Proj3/CMakeFiles/proj3.dir
